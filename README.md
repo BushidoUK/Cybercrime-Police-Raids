@@ -3,6 +3,7 @@ Collection of videos of Raids on Cybercriminals
 
 | Year | Cybercriminal(s) | Police | URL |
 |---|---|---|---|
+| November 2023 | Lockergoga/MegaCortex (FIN6) | Cyberpolice Ukraine | [youtube.com](https://www.youtube.com/watch?v=8yLtHCbnF44) |
 | August 2023 | Lolek Hosting | Czech Republic Cyberpolice | [youtube.com](https://www.youtube.com/watch?v=FADLWqApRWU) |
 | April 2023 | Genesis Market affiliate | UK National Crime Agency (NCA) | [youtube.com](https://www.youtube.com/watch?v=ZwkjF_RT3c8) |
 | November 2022 | iSpoof Fraud Service | UK Metropolitan Police | [youtube.com](https://www.youtube.com/watch?v=rxMMnyNVWJI) |
