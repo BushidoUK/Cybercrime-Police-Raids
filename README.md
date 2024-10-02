@@ -3,6 +3,7 @@ Collection of videos of Raids on Cybercriminals
 
 | Year | Cybercriminal(s) | Police | URL |
 |---|---|---|---|
+| October 2024 | UAPS payment system and Cryptex cryptocurrency exchange | Russian FSB | [youtube.com](https://www.youtube.com/watch?v=MJmt8q7_RL4) |
 | June 2024 | Conti & LockBit crypter | Cyberpolice Ukraine | [youtube.com](https://www.youtube.com/watch?v=be5XS4RUai4) |
 | November 2023 | Lockergoga/MegaCortex (FIN6) | Cyberpolice Ukraine | [youtube.com](https://www.youtube.com/watch?v=8yLtHCbnF44) |
 | August 2023 | Lolek Hosting | Czech Republic Cyberpolice | [youtube.com](https://www.youtube.com/watch?v=FADLWqApRWU) |
