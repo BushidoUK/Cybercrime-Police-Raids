@@ -3,6 +3,7 @@ Collection of videos of Raids on Cybercriminals
 
 | Year | Cybercriminal(s) | Police | URL |
 |---|---|---|---|
+| Febuary 2025 | Natohub Threat Actor | Spanish Policia Nacional | [x.com](https://x.com/vxdb/status/1887273518749954198) |
 | October 2024 | UAPS payment system and Cryptex cryptocurrency exchange | Russian FSB | [youtube.com](https://www.youtube.com/watch?v=MJmt8q7_RL4) |
 | June 2024 | Conti & LockBit crypter | Cyberpolice Ukraine | [youtube.com](https://www.youtube.com/watch?v=be5XS4RUai4) |
 | November 2023 | Lockergoga/MegaCortex (FIN6) | Cyberpolice Ukraine | [youtube.com](https://www.youtube.com/watch?v=8yLtHCbnF44) |
